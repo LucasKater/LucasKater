@@ -1,5 +1,5 @@
-### 💻 Olá, me chamo Lucas Sousa. Me formei em Ciência da Computação em 2022 e atualmente em busca de uma oportunidade como Desenvolvedor Mobile Júnior.
-### Experiências em Flutter, Android SDK, Java, C#, MySQL...
+### 💻 Olá, me chamo Lucas Sousa. Me formei em Ciência da Computação em 2022 e atualmente em busca de uma oportunidade como Desenvolvedor Fron-end Júnior.
+### Experiências em HTML/CSS, Vue.js, Java, JavaScript, C#, MySQL...
 
 
 #### Aqui está algumas informações interessantes
