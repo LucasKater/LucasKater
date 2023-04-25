@@ -1,5 +1,5 @@
 ### 👋 Olá, meu nome é Lucas Sousa. 
-### 💻 Formado em Ciência da Computação e atualmente em busca de uma oportunidade como Desenvolvedor Front-end Júnior.
+### 💻 Formado em Ciência da Computação e atualmente em busca de uma oportunidade como Desenvolvedor Júnior.
 ### Experiências em HTML/CSS, JavaScript, Vue.js, Java, C#, MySQL...
 
 
