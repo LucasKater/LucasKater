@@ -18,4 +18,4 @@ Ferramentas de visualização de dados: Utilização de ferramentas para anális
 
 #### Aqui está algumas informações interessantes
 
-#### Link do meu Linkedin: https://www.linkedin.com/in/lucas-sousa-26a70a213
+#### Link do meu Linkedin: https://www.linkedin.com/in/lucasmoreirasousa/
