@@ -1,5 +1,5 @@
 ### 👋 Olá, meu nome é Lucas Sousa
-### 💻 Formado em Ciência da Computação e atualmente em busca de uma oportunidade como Analista de Dados
+### 💻 Formado em Ciência da Computação e Pós Graduado em Ciência de Dados atualmente em busca de uma oportunidade como Cientista de Dados
 ### Experiência em:
 
 Python: Automação de processos, web scraping, análise e manipulação de dados
